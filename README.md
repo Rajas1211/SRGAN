@@ -16,3 +16,13 @@ It is an implementation of the paper: https://arxiv.org/abs/1609.04802
     d. results
     e: models: to save weights
 3. Training can be avoided by using the pretrained weights. Download the pretrained weights from repository and make a copy in Google drive. Update the path in Testing path.
+
+Following is the result of training the network on 800 images and 30,000 Epochs. The results can be substantially improved using more images (~5000) and increasing number of Epochs (~1,00,000).
+
+![door](https://user-images.githubusercontent.com/60413242/89576630-723ac600-d827-11ea-8dc0-5c2d73dcae1d.png)
+![face image](https://user-images.githubusercontent.com/60413242/89576635-736bf300-d827-11ea-854b-18c2e6d6ba47.png)
+![floating house](https://user-images.githubusercontent.com/60413242/89576639-74048980-d827-11ea-8aa5-35985648b6e1.png)
+![man dessert](https://user-images.githubusercontent.com/60413242/89576642-749d2000-d827-11ea-98bd-51c52ece951f.png)
+![marked image](https://user-images.githubusercontent.com/60413242/89576645-7535b680-d827-11ea-9db6-0d330ec6f4b8.jpg)
+![pebbles](https://user-images.githubusercontent.com/60413242/89576647-7535b680-d827-11ea-9812-e855c5566a06.png)
+![star fish](https://user-images.githubusercontent.com/60413242/89576648-75ce4d00-d827-11ea-8d1f-bb0213c610e6.png)
