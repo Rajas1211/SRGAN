@@ -1,5 +1,5 @@
 # SRGAN
-Super Resolution using Generative Adversarial Network
+Super Resolution using Generative Adversarial Network (GAN)
 
 ## Method
 
